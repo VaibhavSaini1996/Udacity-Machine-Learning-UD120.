@@ -1,2 +1,2 @@
 *.py diff=python
-*.txt diff=python
+*.txt diff=txt
