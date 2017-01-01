@@ -2,10 +2,3 @@ my_classifier.pkl
 my_dataset.pkl
 my_feature_list.pkl
 
-### Python ###
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
